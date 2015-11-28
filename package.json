@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "esprima": "^2.6.0",
-    "estraverse": "^1.5.1",
+    "estraverse": "^2.0.0",
     "lodash": "^3.0.1"
   },
   "devDependencies": {
